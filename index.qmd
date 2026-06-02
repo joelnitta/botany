@@ -1,0 +1,40 @@
+---
+title: "Botany"
+toc: false
+---
+
+## Slides
+
+- [Day 1: Introduction](day1/index.qmd)
+
+- [Day 2: Topic 2](day2/index.qmd)
+
+- [Day 3: Topic 3](day3/index.qmd)
+
+- [Day 4: Topic 4](day4/index.qmd)
+
+- [Day 5: Topic 5](day5/index.qmd)
+
+- [Day 6: Topic 6](day6/index.qmd)
+
+- [Day 7: Topic 7](day7/index.qmd)
+
+- [On-Demand: Self-Paced Content](on-demand/index.qmd)
+
+## Important Dates
+
+- Day 1: [Date TBD]
+- Day 2: [Date TBD]
+- Day 3: [Date TBD]
+- Day 4: [Date TBD]
+- Day 5: [Date TBD]
+- Day 6: [Date TBD]
+- Day 7: [Date TBD]
+
+## Office Hours
+
+By appointment, please send an email to [your-email@example.com]
+
+## Syllabus
+
+- [Link to syllabus TBD]

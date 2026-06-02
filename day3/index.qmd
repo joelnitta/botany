@@ -1,0 +1,20 @@
+---
+format:
+  revealjs:
+    incremental: false
+    css: ../styles.css
+execute: 
+  echo: true
+---
+
+# Day 3: Topic 3
+
+## Slide 1
+
+- Bullet point 1
+- Bullet point 2
+- Bullet point 3
+
+## Slide 2
+
+Add your content here.
