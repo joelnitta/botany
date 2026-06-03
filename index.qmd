@@ -5,7 +5,9 @@ toc: false
 
 ## Slides
 
-- [Day 1: Introduction](day1/index.qmd)
+- [Day 1: Guidance](day1/index.qmd)
+
+<!--
 
 - [Day 2: Topic 2](day2/index.qmd)
 
@@ -21,6 +23,7 @@ toc: false
 
 - [On-Demand: Self-Paced Content](on-demand/index.qmd)
 
+
 ## Important Dates
 
 - Day 1: [Date TBD]
@@ -31,10 +34,14 @@ toc: false
 - Day 6: [Date TBD]
 - Day 7: [Date TBD]
 
+-->
+
 ## Office Hours
 
-By appointment, please send an email to [your-email@example.com]
+By appointment, please send an email to [joelnitta@chiba-u.jp]
 
-## Syllabus
+## Links
 
-- [Link to syllabus TBD]
+- [Syllabus](https://syllabus.gs.chiba-u.jp/2026/401001000000000/G15N945001/en_US)
+
+- [Moodle](https://moodle.gs.chiba-u.jp/moodle/course/view.php?id=48588)
