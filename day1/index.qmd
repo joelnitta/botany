@@ -42,10 +42,18 @@ execute:
 :::
 
 ::: {.column width="50%"}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/2880px-California_in_United_States.svg.png){fig-alt="Image of California map" width="100%" height="100%"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/California_in_United_States.svg/960px-California_in_United_States.svg.png){fig-alt="Image of California map" width="100%" height="100%"}
 :::
 
 ::::
+
+## What happened to "Biodiversity and Japan"?
+
+- This course previously had a much broader focus: biodiversity in general
+
+- I am an expert on fern evolution, so I decided to change the content this year to **botany** (the science of plants)
+
+- I hope you will find the new theme interesting and continue to take this course, but if you decide otherwise, that is OK
 
 ## Why plants? Why botany?
 
@@ -70,11 +78,23 @@ execute:
 
 - Do you notice the plants around you? Why or why not?
 
+## Plant Awareness Disparity
+
+- (sometimes called "plant blindness", but this term is not preferred because it is ableist)
+
+- The condition of **not being aware of the plants around you**, despite their importance
+
+- This has real-life consequences!
+  - Conservation bias: more money goes to conserving animals
+  - Education bias: biology focuses mainly on animals
+
 ## Why botany?
 
 - Botany helps us **organize** plant diversity and **understand how plants evolved** (and are evolving)
 
 ## Goals of this course
+
+- To cure you of plant awareness disparity!
 
 By the end of the course, you should be able to:
 
@@ -88,17 +108,17 @@ By the end of the course, you should be able to:
 
 - If needed, you may ask questions in Japanese and I will explain in Japanese.
 
-- However, you need to be able to communicate in English and understand the lecture materials and textbook content as provided in English.
+- However, **you need to be able to communicate in English** and understand the lecture materials and textbook content as provided in English.
 
 - If the English level of the class is too high, consider taking a different course.
 
 ## AI Policy
 
-- AI is allowed on a **limited basis**, to assist you with the coursework, **not to do it for you**
+- AI is allowed on a **limited basis** to assist you with the coursework, **not to do it for you**
 
 - For example, after writing the first draft of the weekly assignment on your own, you may use AI to help correct your English grammar and spelling
 
-- Usage of AI to generate the main content of any assignment is prohibited and will receive **zero points**
+- Usage of AI to generate the main content of any assignment is **prohibited** and will receive **zero points**
 
 - Bottom line: you are spending time and money **to learn**. **Letting AI do everything is cheating yourself.**
 
@@ -115,7 +135,7 @@ The textbook is **required** for all students.
 :::
 
 ::: {.column width="50%"}
-![](botanize-cover.jpg)
+![](botanize-cover.jpg){height="450"}
 :::
 
 ::::
@@ -132,7 +152,7 @@ The textbook is **required** for all students.
 :::
 
 ::: {.column width="50%"}
-![](botanize-chapter-1.png){}
+![](botanize-chapter-1.png){height="450"}
 :::
 
 ::::
@@ -323,7 +343,6 @@ Google
 ::: {.column width="50%"}
 - Take a photo
   - As close and as clear as possible
-  - If other organisms (such as plants) are visible in the background, the algorithm may become confused
   - Flowers or other reproductive structures are helpful (but not required)
 :::
 
@@ -560,9 +579,7 @@ Google
 
 ::::
 
-# A (very) brief history of plant life on earth
-
-## Next week's assignment: Plant Morphology
+## Next week's assignment: Plant Morphology {.smaller}
 
 - Prompts
   - 5: Can you find the growing tip of a root?
