@@ -7,14 +7,45 @@ execute:
   echo: true
 ---
 
-# On-Demand: Self-Paced Content
+# On-Demand: Phylogenetic Analysis
 
-## Slide 1
+## All organisms are related by descent from a common ancestor
 
-- Bullet point 1
-- Bullet point 2
-- Bullet point 3
+- Earth began about 4.5 billion years ago
 
-## Slide 2
+- Life on earth began about 3.6 billion years ago
 
-Add your content here.
+- All life on earth is organized into cells and uses DNA
+  - This indicates a **single origin** of life on earth
+  - **All organisms** that live today **are related to each other**
+
+## A phylogeny represents how organisms are related
+
+- The name of the organism (usually, the species) is written on one side (***tips***)
+
+- The lines connecting the names indicate evolution within that species
+
+- ***Nodes*** (where lines come together) indicate a **common ancestor** shared between species
+
+- In theory, we can draw the entire evolutionary history of earth using a phylogeny
+
+## The most important part of a phylogeny is how the lines connect
+
+- The order of tips does not matter (one living species on the phylogeny is not "more evolved" than another)
+
+- This may be confusing if you are used to thinking of humans as being "highly evolved"
+
+- Since there is one common origin of life on earth, that means all lineages living now are equally old
+  - We just took different pathways to get here
+
+## We must use indirect evidence to infer how evolution happened
+
+- In most cases, humans cannot watch lineages splitting
+
+- We have to use **indirect evidence**
+  - Inherited characteristics, such as physical appearance or DNA
+  - These are called ***traits***
+
+## Traits that were inherited from a common ancestor are evidence for phylogeny
+
+## 
