@@ -7,7 +7,7 @@ execute:
   echo: true
 ---
 
-# On-Demand: Phylogenetic Analysis
+# On-Demand: Phylogeny and Classification
 
 ## All organisms are related by descent from a common ancestor
 
@@ -48,4 +48,33 @@ execute:
 
 ## Traits that were inherited from a common ancestor are evidence for phylogeny
 
-## 
+## Activity: Build Your Own Phylogeny (BYOP)
+
+- In this activity, you will build a phylogeny of the following species:
+  - Fish
+  - Owl
+  - Frog
+  - Starfish
+  - Cow
+
+## Classification systems
+
+- ***Taxonomy*** is the study of **naming organisms**
+
+- A ***taxonomic classification*** is a way to **organize** names
+
+- A classification is a **hierarchy** of nested groups
+  - Each level of the hierarchy is called a ***taxonomic rank***
+  - Each named group is called a ***taxon*** (plural: "taxa")
+
+## Typical taxonomic classification
+
+- Ranks: kingdom, phylum, order, class, family, genus, species, variety
+
+- Taxa: 
+
+## Classification should reflect evolution
+
+- Groups of organisms that we recognize in the classification should share common evolutionary history
+
+- Ideally
